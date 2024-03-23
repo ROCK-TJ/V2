@@ -3,7 +3,7 @@ name : Run my Python
 on : 
   push: # do this every time
 
-job:
+jobs:
   bulid:
   name: set up enviroment
   run-on: ubuntu-lastest
